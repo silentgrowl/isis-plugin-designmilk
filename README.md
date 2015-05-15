@@ -17,3 +17,7 @@ And then execute:
 ## Usage
 
 Post the latest Design Milk stories into a room by typing ```!designmilk``` or ```!dm``` in chat.
+
+## Links
+
+* [isis-plugin-designmilk on RubyGems](https://rubygems.org/gems/isis-plugin-designmilk)
